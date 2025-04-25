@@ -1,3 +1,4 @@
 # first
 This is my first Git Repository.
-Author - Aditya
+Author - Aditya Choudhari
+
